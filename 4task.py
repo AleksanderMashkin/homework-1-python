@@ -1,3 +1,5 @@
+# Задача 1
+
 # from decimal import Decimal
 
 # print('Введите число')
@@ -9,6 +11,9 @@
 # nunber = a
 
 # print('Число с заданной точностью: ', nunber)
+
+
+# Задача 2
 
 # print('Введите число')
 # N = int(input())
@@ -22,6 +27,9 @@
 #    else:
 #        a += 1
 #print(Num_list)
+
+# Задача 3
+
 from collections import Counter
 print('Введите количество чисел в списке')
 number = int(input())

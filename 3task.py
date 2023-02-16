@@ -58,6 +58,8 @@
 #for i in reversed(list1):
 #    print(i, end = "")
 
+# 4 задача
+
 import random
 print('Введите количество вещественных чисел')
 N = int(input())
