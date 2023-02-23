@@ -22,9 +22,9 @@ def start():
         view.show(result)
     else:
         print('Неккоректный выбор операции')
-    time = dt.now().strftime('%H:%M')
-    with open ('log.csv', 'a') as file:
-        file.write('{value_a} - первое число, {value_b} - второе число, {result} - результат'.format(time))
+    # time = dt.now().strftime('%H:%M')
+    # with open ('log.csv', 'a') as file:
+    #    file.write('{value_a} - первое число, {value_b} - второе число, {result} - результат'.format(time))
 
 
 
