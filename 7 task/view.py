@@ -2,4 +2,4 @@ def show(data):
     print(data)
 
 def get_value():
-    return int(input('Введите число: '))
+    return float(input('Введите число: '))
